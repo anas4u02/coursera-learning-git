@@ -1,1 +1,1 @@
-# coursera-learning-git
+# Getting Started with Git and Github
